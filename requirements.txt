@@ -1,0 +1,4 @@
+airflow-clickhouse-plugin
+numpy
+pandas
+requests
